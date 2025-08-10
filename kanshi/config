@@ -1,0 +1,4 @@
+profile {
+	output DP-2 enable mode 3440x1440@165.001 position 1080,640
+	output HDMI-A-1 enable mode 1920x1080@74.973 position 0,0 transform 90
+}
